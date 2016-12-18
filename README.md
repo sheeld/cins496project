@@ -7,4 +7,4 @@ First thing you'll want to do is sign up using the register new user screen:
 
 Now click the create new project button:
 
-![alt tag](https://raw.githubusercontent.com/sheeld/cins496project/public/images/projectimg.jpg)
+![ScreenShot](https://github.com/sheeld/cins496project/public/images/projectimg.jpg)
