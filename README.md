@@ -7,4 +7,4 @@ First thing you'll want to do is sign up using the register new user screen:
 
 Now click the create new project button:
 
-![alt tag](https://cloudlab-sheeldrum17.c9users.io//gitrmimgs/createnew.png)
+![alt tag](https://cloudlab-sheeldrum17.c9users.io/gitrmimgs/createnew.png)
