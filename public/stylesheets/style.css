@@ -1,28 +1,13 @@
-/*
-Theme Name: Twenty Twelve-Child
-Theme URI: http://ldcsites.com/twentytwelve-child
-Author: Samara Iodice of lynda.com
-Author URI: http://ldcsites.com
-Description: Tweny Twelve Child
-Template: twentytwelve
-Version: 1.0
-
-/* =Imports styles from the parent theme
--------------------------------------------------------------- */
 @import url('tt-style.css');
-
-
-/* =Theme customization starts here
--------------------------------------------------------------- */
 
 /* =Hide titles on pages via CSS instead of removing code from the content-page.php file -------------------------------------------------------------- */
 
 .page .entry-header { display: none; }
 
-
 /* =Remove extra space where titles once were.
 -------------------------------------------------------------- */
 /* Page structure */
+
 .site {
 	/*padding: 24px 0;*/
 	/*padding: 0 1.714285714rem;*/
@@ -113,7 +98,6 @@ a:active {
 color: #a8add7; 
 }
 
-
 /* Change hover states from the section called "Main content and comment content" */
 
 .entry-header .comments-link {
@@ -149,6 +133,7 @@ comments-link a:active,
 }
 
 /* Remove automatic hyphenation */
+
 .site-content article { word-wrap: normal; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; }
 .widget-area .widget { word-wrap: normal; -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; }
 
@@ -160,6 +145,7 @@ comments-link a:active,
     clip: rect(1px 1px 1px 1px); /* IE7 */
     clip: rect(1px, 1px, 1px, 1px);
 }
+
 body.custom-background { background-color: #c2c5d6; }
 
 #pgc-218-0-0 { width:0% } 
