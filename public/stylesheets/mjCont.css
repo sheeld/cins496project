@@ -22,7 +22,7 @@ a{
 strong{
 	font-weight: 700;
 }
-/******* GENERAL RESET *******/
+/* GENERAL RESET */
 h1{
 	font-weight: 700;
 	font-size: 18px;
@@ -31,16 +31,15 @@ h1{
 	color: #5f95ef;
 	margin-bottom: 1em;
 }
-/******* LOGO *******/
+/* LOGO */
 #logo{
 	margin-top: 1em;
 	display: block;
 }
-/******* /LOGO  *******/
-/******* CONTAINER *******/
 
-/******* /CONTAINER *******/
-/******* FORM *******/
+/* CONTAINER */
+
+/* FORM */
 #mailform{
 	padding: 0 10px 10px;
 }
@@ -120,7 +119,6 @@ h1{
 #error.valid ul li strong{
 	color: #93d72e;
 }
-/******* /FORM *******/
 #mailform 	input[type="checkbox"]{
 	width:10px;
 }
